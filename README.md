@@ -21,5 +21,5 @@ https://www.kaggle.com/kmader/finding-lungs-in-ct-data
 
 
 ## Reference
-kairess/CT_lung_segmentation <br>
-Connor323/Lung-Lobes-Segmentation-in-CT-Scans
+- kairess/CT_lung_segmentation <br>
+- Connor323/Lung-Lobes-Segmentation-in-CT-Scans
